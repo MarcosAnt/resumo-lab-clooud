@@ -1,3 +1,18 @@
+## Quiz
+- Ao adotarmos a nuvem pública podemos adaptar nossos sistemas para que os mesmos atendam as requisições externas com agilidade e rapidez. Qual vantagem da nuvem atende a esta expectativa?
+  - Elasticidade
+
+- Gerenciar o seu ambiente de nuvem por meio do Portal ou linha de comando remete a qual benefício da nuvem?
+  - Gerenciabilidade
+
+- A nuvem pública é um ambiente que garante determinados tempos de atividade conforme o tipo de serviço, essa garantia é chamada de:
+  - SLA
+
+- A capacidade de adicionar recursos para lidar com o aumento da demanda de consumo para atender uma necessidade especifica é chamado de:
+  - Escalabilidade
+
+<br>
+
 ## Resumo lab "Criando máquinas Virtuais na Azure"
 
 - definir qual SLA (tempo de indisponibilidade) adequado para a solução;
